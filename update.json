@@ -1,3 +1,3 @@
 "version": "1.2",
 "token": "simpleplan123",
-"firmware_url": "http://10.11.36.29/iot/otawithversionjson.ino.bin"
+"firmware_url": "https://raw.githubusercontent.com/sahiriot/latihan_iot/refs/heads/main/update.json"
